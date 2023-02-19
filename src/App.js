@@ -1,6 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
 import { Route, Routes } from 'react-router';
-
 // Header nav layout
 import Header from './components/header';
 // Footer layout
