@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "01",
+    "header": "What types of drones do you offer for commercial use?",
+    "content": "Our company offers a variety of drones for commercial use, including multi-rotor drones, fixed-wing drones, and hybrid drones, depending on the specific needs and requirements of our clients."
+  },
+  {
+    "_id": "02",
+    "header": "What is the maximum flight time for your drones?",
+    "content": "The maximum flight for our drone "
+  },
+  {
+    "_id": "03",
+    "header": "Do you provide training for drone operators?",
+    "content": "Yes, we provide comprehensive training for all of our drone operators to ensure safe and efficient operation of our drones. Our training covers everything from basic flight operation to advanced data analysis and interpretation."
+  },
+  {
+    "_id": "04",
+    "header": "How do you ensure the safety of your drones in flight?",
+    "content": "We have implemented strict safety protocols and guidelines to ensure the safe operation of our drones. Our drones are equipped with advanced collision avoidance systems, GPS tracking, and real-time monitoring systems to ensure safe flight at all times."
+  },
+  {
+    "_id": "05",
+    "header": "What is the cost of your drones?",
+    "content": "The cost of our drones varies depending on the specific model, features, and customization options that you choose. Our sales team can provide you with a detailed quote based on your specific needs and requirements."
+  },
+  {
+    "_id": "05",
+    "header": "What is the warranty and support for your drones?",
+    "content": "All of our drones come with a comprehensive warranty and support program, which covers both hardware and software issues. Our support team is available to assist with any questions or issues you may have with your drone."
+  }
+]

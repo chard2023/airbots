@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "01",
+        "img": "blog-1.png",
+        "desc": "Drones are revolutionizing the agriculture industry in many ways, helping farmers to save time, increase efficiency, and improve crop yields. With their ability to capture high-resolution aerial imagery, collect data, and perform various tasks, drones have become an indispensable tool for modern farmers.",
+        "topic": "Exploring the Benefits of Using Drones in Agriculture",
+        "author": "",
+        "date": "Feb 20, 2023"
+    },
+    {
+        "_id": "02",
+        "img": "blog-2.png",
+        "desc": "Drones are rapidly evolving, and new technologies are emerging all the time, promising to unlock even more capabilities and potential applications. In this post, we'll take a look at some of the most exciting new developments in drone technology and explore their potential impact on a variety of industries.",
+        "topic": "The Future of Drones: Exploring Emerging Technologies and Their Potential Impact",
+        "author": "",
+        "date": "Feb 20, 2023"
+    },
+    {
+        "_id": "03",
+        "img": "blog-3.jpg",
+        "desc": "Drones, or unmanned aerial vehicles (UAVs), have transformed the way we view the world around us. From stunning aerial photography to search and rescue operations, drones have proven to be a valuable tool in a wide range of industries. Here are just a few of the ways drones are changing the game",
+        "topic": "The Rise of Drones: How UAVs are Changing the Way We See the World",
+        "author": "",
+        "date": "Feb 20, 2023"
+    }
+]

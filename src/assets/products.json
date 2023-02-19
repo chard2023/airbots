@@ -1,0 +1,159 @@
+[
+    {
+        "_id": "01",
+        "img": "drone-1.png",
+        "productName": "X1 series",
+        "model": "AeroBlade X10A",
+        "discountedPrice": 700,
+        "price": 500,
+        "newArrival": false,
+        "featured": true,
+        "desc": "The AeroBlade X1 series is a line of high-performance drones designed for professional aerial photography and videography. These drones feature advanced camera systems, long flight times, and intuitive controls, making them ideal for capturing stunning aerial footage and images"
+    },
+    {
+        "_id": "02",
+        "img": "drone-feature-1.png",
+        "productName": "S2 series",
+        "model": "SkySentry S2AX",
+        "discountedPrice": 700,
+        "price": 599,
+        "newArrival": false,
+        "featured": true,
+        "desc": "The SkySentry S2 series is a line of drones designed for industrial and commercial applications. These drones are equipped with advanced sensors and navigation systems, and are built to withstand harsh weather conditions and demanding work environments."
+    },
+    {
+        "_id": "03",
+        "img": "drone-feature-3.png",
+        "productName": "G3 series",
+        "model": "AirGuardian G3A",
+        "discountedPrice": 599.99,
+        "price": 700,
+        "newArrival": false,
+        "featured": true,
+        "desc": "The AirGuardian G3 series is a line of drones designed for law enforcement and security applications. These drones feature powerful cameras and advanced surveillance systems, allowing them to be used for monitoring large crowds and maintaining public safety."
+    },
+    {
+        "_id": "04",
+        "img": "drone-product-1.png",
+        "productName": "SkyNavigator",
+        "model": "",
+        "discountedPrice": 599.99,
+        "price": 700,
+        "newArrival": false,
+        "featured": false,
+        "desc": "Adventure, Exploration, GPS, Compact, Agile, Drone"
+    },
+    {
+        "_id": "05",
+        "img": "drone-product-2.png",
+        "productName": "AirExplorer",
+        "model": "",
+        "price": "600",
+        "newArrival": true,
+        "featured": false,
+        "desc": "Photography, Videography, 4K, Long Flight, Intuitive"
+    },
+    {
+        "_id": "06",
+        "img": "drone-product-3.png",
+        "productName": "FlightVision",
+        "model": "",
+        "price": 1000,
+        "newArrival": true,
+        "featured": false,
+        "desc": "Professional, High-Resolution, Stabilized, Cutting-Edge, Image Quality"
+    },
+    {
+        "_id": "07",
+        "img": "drone-product-1.png",
+        "productName": "SkyCam",
+        "model": "",
+        "price": "1000",
+        "discountedPrice": 1500,
+        "newArrival": false,
+        "featured": false,
+        "desc": "Portable, Foldable, Life's Moments, Aerial Footage, Compact"
+    },
+    {
+        "_id": "08",
+        "img": "drone-product-2.png",
+        "productName": "AirMaster",
+        "model": "",
+        "price": "2000",
+        "newArrival": true,
+        "featured": false,
+        "desc": "Rugged, Dependable, Commercial, Surveying, Industrial "
+    },
+    {
+        "_id": "09",
+        "img": "drone-product-3.png",
+        "productName": "AeroFlex X01B Series",
+        "model": "X01B",
+        "price": "2000",
+        "newArrival": true,
+        "featured": false,
+        "desc": "White Agile Urban Scout Drone, Exploration, GPS, Compact,"
+    },
+    {
+        "_id": "10",
+        "img": "drone-product-2.png",
+        "productName": "SkySail X22C Series",
+        "model": "X22C",
+        "discountedPrice": 3500,
+        "price": "2999.99",
+        "newArrival": false,
+        "featured": false,
+        "desc": "White High Altitude Carrier, Urban Scout Drone"
+    },
+    {
+        "_id": "11",
+        "img": "drone-product-2.png",
+        "productName": "TerraTrack X33D",
+        "model": "X33D",
+        "price": "1400",
+        "newArrival": true,
+        "featured": false,
+        "desc": "Rugged Terrain Navigator Underwater Exploration Drone"
+    },
+    {
+        "_id": "12",
+        "img": "drone-product-1.png",
+        "productName": "DeepDive X44E Series",
+        "model": "X44E",
+        "price": "1200",
+        "newArrival": true,
+        "featured": false,
+        "desc": "Black Underwater Exploration Drone Commercial Surveying, Industrial"
+    },
+    {
+        "_id": "13",
+        "img": "drone-product-3.png",
+        "productName": "BlazeFly X55F Series",
+        "model": "X55F",
+        "price": "800",
+        "newArrival": true,
+        "featured": false,
+        "desc": "Rapid Aerial Assault Wilderness Monitoring Unit"
+    },
+    {
+        "_id": "14",
+        "img": "drone-product-1.png",
+        "productName": "IceBolt X66G Series",
+        "model": "X66G",
+        "price": "500",
+        "newArrival": true,
+        "featured": false,
+        "desc": "Arctic Surveillance Drone  Urban Scout Drone Drone Commercial "
+    },
+    {
+        "_id": "15",
+        "img": "drone-product-5.png",
+        "productName": "ForestGuard X77H Series",
+        "model": "X77H",
+        "discountedPrice": 5000,
+        "price": "4000",
+        "newArrival": false,
+        "featured": false,
+        "desc": "White Wilderness Monitoring Unit Navigator Underwater"
+    }
+]
