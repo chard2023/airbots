@@ -4,8 +4,6 @@ import App from './App';
 import { BrowserRouter } from "react-router-dom";
 import RouterScroll from "./router-scroll";
 import './index.css';
-import './assets/css/style.css';
-import './assets/css/swiper-bundle.min.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'))
 root.render(

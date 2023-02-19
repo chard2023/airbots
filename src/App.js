@@ -27,7 +27,7 @@ function App() {
 
   useEffect(() => {
     const link = document.createElement('link');
-    link.href = `${process.env.PUBLIC_URL}/assets/css/${theme}.css`;
+    link.href = `/assets/css/colors/${theme}.css`;
     link.rel = 'stylesheet';
     console.log(`${process.env.PUBLIC_URL}`);
     document.head.appendChild(link);
