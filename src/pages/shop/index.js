@@ -69,6 +69,9 @@ function Shop() {
     useEffect(() => {
         window.addEventListener('updateMyCart', checkCartUpdates);
     }, []);
+    const origPrice = {
+        marginLeft: "8px"
+    }
   return (
     <main className="main">
         <section className="shop section container">
@@ -153,9 +156,12 @@ function Shop() {
                             <h3 className="shop__title">{i.productName}</h3>
                             <span className="shop__subtitle">{i.desc}</span>
 
-                            <div className="shop__prices">
+                            <span className="new__price">${i.discountedPrice || i.price}</span>
+                                {i.discountedPrice ? <span className="new__discount" style={origPrice}>${i.price}</span> : null}
+
+                            {/* <div className="shop__prices">
                                 <span className="shop__price">${i.discountedPrice ? i.discountedPrice : i.price}</span>
-                            </div>
+                            </div> */}
                             <a onClick={() => addToCart(i)} className="button shop__button">
                                 <i className="bx bx-cart-alt shop__icon"></i>
                             </a>
