@@ -85,8 +85,8 @@ function ProductCarousel(type) {
                             <span className="new__subtitle">{i.desc}</span>
 
                             <div className="new__prices">
-                                <span className="new__price">{i.price}</span>
-                                <span className="new__discount">{i.discountedPrice}</span>
+                                <span className="new__price">{i.discountedPrice || i.price}</span>
+                                {i.discountedPrice ? <span className="new__discount">{i.price}</span> : null}
                             </div>
                         </div>
                         <a onClick={() => addToCart(i)} className="button new__button">
