@@ -77,17 +77,18 @@ function ProductCarousel(type) {
             onSwiper={(swiper) => console.log(swiper)}>
                 {newProducts.map((i) => (
                         !i.featured && <SwiperSlide key={i._id}>
-                    <div className="new__content swiper-slide" onClick={() => goToDetails(i._id)}>
-                        <div className="new__tag">New</div>
-                        <img src={require(`../../assets/img/${i.img}`)} alt="" className="new__img" />
-                        <h3 className="new__title">{i.productName}</h3>
-                        <span className="new__subtitle">{i.desc}</span>
+                    <div className="new__content swiper-slide">
+                        <div onClick={() => goToDetails(i._id)}>
+                            <div className="new__tag">New</div>
+                            <img src={require(`../../assets/img/${i.img}`)} alt="" className="new__img" />
+                            <h3 className="new__title">{i.productName}</h3>
+                            <span className="new__subtitle">{i.desc}</span>
 
-                        <div className="new__prices">
-                            <span className="new__price">{i.price}</span>
-                            <span className="new__discount">{i.discountedPrice}</span>
+                            <div className="new__prices">
+                                <span className="new__price">${i.discountedPrice || i.price}</span>
+                                {i.discountedPrice ? <span className="new__discount">${i.price}</span> : null}
+                            </div>
                         </div>
-
                         <a onClick={() => addToCart(i)} className="button new__button">
                             <i className="bx bx-cart-alt new__icon"></i>
                         </a>

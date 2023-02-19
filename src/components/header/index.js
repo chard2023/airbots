@@ -235,7 +235,7 @@ let re = /^(([^<>()\]\\.,;:\s@"]+(\.[^<>()\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,
 
                 <div className="cart__details">
                     <h3 className="cart__title">{i.productName}</h3>
-                    <span className="cart__price">{i.discountedPrice}</span>
+                    <span className="cart__price">{i.discountedPrice || i.price}</span>
                 </div>
 
                 <div className="cart__amount">
