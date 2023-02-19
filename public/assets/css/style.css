@@ -1306,6 +1306,27 @@ input {
     font-weight: var(--font-medium);
 }
 
+
+
+.cart-count{
+    font-size: 10px;
+    width:15px;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    top: -11px;
+    right: 28%;
+    background-color: var(--first-color);
+    border-radius: 50%;
+    height: 15px;
+    
+  }
+
+  .nav__shop .cart-count {
+    color: white;
+  }
+   
+
 /* Show cart */
 .show-cart {
     right: 0;
