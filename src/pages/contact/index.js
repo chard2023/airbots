@@ -17,17 +17,17 @@ function Contact() {
                         </div>
                     </div>
                     <div className="contact__information">
-                        <i className="bx bx-phone contact__icon"></i>
+                        <i class="bx bx-mail-send contact__icon"></i>
                         <div>
                             <h3 className="contact__title">Email</h3>
                             <span className="contact__subtitle">airbot.support@gmail.com</span>
                         </div>
                     </div>
                     <div className="contact__information">
-                        <i className="bx bx-phone contact__icon"></i>
+                        <i class="bx bxs-location-plus contact__icon"></i>
                         <div>
                             <h3 className="contact__title">Location</h3>
-                            <span className="contact__subtitle">99 Cebu Philippines</span>
+                            <span className="contact__subtitle">1992 Cebu Philippines</span>
                         </div>
                     </div>
                 </div>
