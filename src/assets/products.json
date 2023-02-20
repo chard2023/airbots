@@ -61,7 +61,7 @@
         "price": 1000,
         "newArrival": true,
         "featured": false,
-        "desc": "Professional, High-Resolution, Stabilized, Cutting-Edge, Image Quality"
+        "desc": "Professional, Portable, Foldable, Stabilized"
     },
     {
         "_id": "07",
@@ -72,7 +72,7 @@
         "discountedPrice": 1500,
         "newArrival": false,
         "featured": false,
-        "desc": "Portable, Foldable, Life's Moments, Aerial Footage, Compact"
+        "desc": "Portable, Foldable, Aerial Footage, Compact"
     },
     {
         "_id": "08",
@@ -103,7 +103,7 @@
         "price": "2999.99",
         "newArrival": false,
         "featured": false,
-        "desc": "White High Altitude Carrier, Urban Scout Drone"
+        "desc": "Exploration Drone, White High, Altitude Carrier, Urban Scout Drone"
     },
     {
         "_id": "11",
