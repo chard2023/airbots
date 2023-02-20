@@ -79,6 +79,7 @@ function Home() {
                     ))}
                 </Swiper>
               </div>
+              <div className="swiper-pagination"></div>
             </div>
         </section>
 
