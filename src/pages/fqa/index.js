@@ -15,7 +15,7 @@ function FQA() {
   return (
     <main className="main">
         <section className="questions section container">
-            <h2 className="breadcrumb__title">FAQS Page</h2>
+            <h2 className="breadcrumb__title">FAQs Page</h2>
             <h3 className="breadcrumb__subtitle">Home {'>'} <span>FAQs</span></h3>
 
             <div className="questions__container grid">
