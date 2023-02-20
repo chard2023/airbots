@@ -21,9 +21,9 @@ function Footer() {
                 <p className="footer__description"><q>Elevating your standards with advanced aerial technology from Airbots.</q></p>
 
                 <div className="footer__social">
-                    <a href="/" className="footer__social-link"><i className="bx bxl-facebook"></i></a>
-                    <a href="/" className="footer__social-link"><i className="bx bxl-twitter"></i></a>
-                    <a href="/" className="footer__social-link"><i className="bx bxl-instagram-alt"></i></a>
+                    <a href="https://www.facebook.com" target="_blank" className="footer__social-link"><i className="bx bxl-facebook"></i></a>
+                    <a href="https://twitter.com" target="_blank" className="footer__social-link"><i className="bx bxl-twitter"></i></a>
+                    <a href="https://www.instagram.com/" target={"_blank"} className="footer__social-link"><i className="bx bxl-instagram-alt"></i></a>
                 </div>
             </div>
 

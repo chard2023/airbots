@@ -191,7 +191,7 @@ let re = /^(([^<>()\]\\.,;:\s@"]+(\.[^<>()\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,
                         activeclassname="active-link"
                         className={({ isActive }) =>
                             isActive ? "nav__link active-link" : "nav__link"
-                        }>Faq's</NavLink>
+                        }>FAQs</NavLink>
                     </li>
                     <li className="nav__item">
                         <NavLink

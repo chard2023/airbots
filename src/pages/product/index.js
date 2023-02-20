@@ -121,7 +121,7 @@ function Product() {
                     <div className="details__prices">
                         <span className="details__price">{product.discountedPrice}</span>
                         <span className="details__discount">{product.price}</span>
-                        <span className="details__percentage">50% OFF</span>
+                        <span className="details__percentage">25% OFF</span>
                     </div>
 
                     <div className="details__description">

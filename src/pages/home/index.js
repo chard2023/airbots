@@ -6,7 +6,9 @@ import { Link } from "react-router-dom";
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Pagination } from "swiper";
 
+import "swiper/css/pagination";
 import "swiper/css";
+
 
 
 import ProductCarousel from "../../components/productCarousel";
@@ -47,7 +49,6 @@ function Home() {
             <div className="swiper home-swiper">
               <div className="swiper-wrapper">
                 <Swiper
-                  
                   pagination={pagination}
                   modules={[Pagination]}
                   className="swiper home-swiper"
